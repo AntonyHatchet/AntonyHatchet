@@ -9,7 +9,7 @@ Software engineer at [Kick](https://kick.co). I build backend systems, developer
 
 ## Featured projects
 
-- **[ferro](https://github.com/AntonyHatchet/ferro)** — Rust project. <!-- add one line on what it does -->
+- **[Ferro](https://github.com/AntonyHatchet/ferro)** — A lightweight AWS service emulator for local development and integration testing. Written in Rust, it provides fast, Docker-friendly SQS, SNS, and S3 implementations compatible with AWS SDKs and the AWS CLI.
 - **[GameCalendarKit](https://github.com/AntonyHatchet/GameCalendarKit)** — Unity asset for creating game time and events.
 
 ## Tech I work with
