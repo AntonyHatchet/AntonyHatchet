@@ -5,7 +5,7 @@ Software engineer at [Kick](https://kick.co). I build backend systems, developer
 - 🔭 Working on AI-powered bookkeeping at Kick
 - 🛠️ TypeScript · Node.js · NestJS · React · Rust
 - 🌱 Always poking at low-level and systems stuff
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/) <!-- replace with your profile link -->
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anton-gorshenin/)
 
 ## Featured projects
 
