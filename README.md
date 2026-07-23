@@ -7,6 +7,10 @@ Software engineer at [Kick](https://kick.co). I build backend systems, developer
 - 🌱 Always poking at low-level and systems stuff
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anton-gorshenin/)
 
+## Engineering impact
+
+![Engineering dashboard](./assets/engineering-dashboard.svg)
+
 ## Featured projects
 
 - **[Ferro](https://github.com/AntonyHatchet/ferro)** — A lightweight AWS service emulator for local development and integration testing. Written in Rust, it provides fast, Docker-friendly SQS, SNS, and S3 implementations compatible with AWS SDKs and the AWS CLI.
@@ -23,3 +27,5 @@ Software engineer at [Kick](https://kick.co). I build backend systems, developer
 ## GitHub stats
 
 ![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyHatchet&show_icons=true&hide_border=true)
+
+![Anton's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonyHatchet&theme=github-compact&hide_border=true&area=true)

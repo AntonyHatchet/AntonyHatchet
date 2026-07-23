@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title description">
+  <title id="title">Anton Gorshenin engineering dashboard</title>
+  <desc id="description">Over 1200 pull requests created, 84 percent merged, over 1000 reviews, and over 10 years of engineering experience.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" rx="18" fill="url(#background)"/>
+  <rect x="1" y="1" width="898" height="258" rx="17" fill="none" stroke="#30363d"/>
+  <rect x="32" y="32" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="32" y="64" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="700">Engineering snapshot</text>
+  <text x="868" y="62" fill="#8b949e" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">GitHub + LinkedIn</text>
+
+  <g transform="translate(32 92)">
+    <rect width="194" height="136" rx="12" fill="#161b22" stroke="#30363d"/>
+    <path d="M24 33h22m-11-11v22" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+    <text x="24" y="84" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="31" font-weight="700">1.2K+</text>
+    <text x="24" y="110" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">pull requests created</text>
+  </g>
+
+  <g transform="translate(246 92)">
+    <rect width="194" height="136" rx="12" fill="#161b22" stroke="#30363d"/>
+    <circle cx="45" cy="38" r="17" fill="none" stroke="#30363d" stroke-width="5"/>
+    <circle cx="45" cy="38" r="17" fill="none" stroke="#22d3ee" stroke-width="5" stroke-linecap="round" stroke-dasharray="90 107" transform="rotate(-90 45 38)"/>
+    <path d="m38 38 5 5 10-11" fill="none" stroke="#f0f6fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="24" y="84" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="31" font-weight="700">84%</text>
+    <text x="24" y="110" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">pull request merge rate</text>
+  </g>
+
+  <g transform="translate(460 92)">
+    <rect width="194" height="136" rx="12" fill="#161b22" stroke="#30363d"/>
+    <path d="M25 23h34v24H42l-9 8v-8h-8z" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="m34 35 5 5 10-11" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="24" y="84" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="31" font-weight="700">1.1K+</text>
+    <text x="24" y="110" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">pull requests reviewed</text>
+  </g>
+
+  <g transform="translate(674 92)">
+    <rect width="194" height="136" rx="12" fill="#161b22" stroke="#30363d"/>
+    <path d="M25 43h34M27 43V27h30v16M35 27v-6h14v6" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="24" y="84" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="31" font-weight="700">10+</text>
+    <text x="24" y="110" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">years building software</text>
+  </g>
+</svg>
