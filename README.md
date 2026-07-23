@@ -24,8 +24,6 @@ Software engineer at [Kick](https://kick.co). I build backend systems, developer
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-## GitHub stats
-
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyHatchet&show_icons=true&hide_border=true)
+## GitHub activity
 
 ![Anton's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonyHatchet&theme=github-compact&hide_border=true&area=true)
